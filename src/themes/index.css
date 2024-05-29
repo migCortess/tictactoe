@@ -9,10 +9,10 @@
   }
 
   :root {
-    --color-primary: 174, 15, 101; /*rgb(174,15,101)*/
-    --color-secundary: 174, 15, 101; /*rgb(174,15,101)*/
-    --color-mainBG: 242, 242, 242; /* #F2F2F2*/
-    --color-cardBody: 254, 254, 254; /* #FEFEFE*/
+    --color-primary: 0, 176, 246; /*rgb(174,15,101)*/
+    --color-secundary: 128, 128, 128; /*rgb(174,15,101)*/
+    --color-mainBG: 0, 176, 246; /* #F2F2F2*/
+    --color-cardBody: 0, 176, 246; /* #FEFEFE*/
 
 
     --ion-color-favorite: #69bb7b;
